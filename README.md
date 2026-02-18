@@ -1,1 +1,1 @@
-# arxiv-thematic-coherence
+# ai-journal-thematic-alignment
